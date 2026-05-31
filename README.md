@@ -4,8 +4,8 @@ Esta é uma API REST funcional desenvolvida para o gerenciamento de ecossistemas
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Java 17 / 21**
-* **Spring Boot 3.x**
+* **Java 17 / 25**
+* **Spring Boot 4.x**
     * *Spring Data JPA* (Persistência de dados e ORM)
     * *Spring Web* (Criação de endpoints RESTful)
     * *Spring Validation* (Validação de payload com `@Valid`)
