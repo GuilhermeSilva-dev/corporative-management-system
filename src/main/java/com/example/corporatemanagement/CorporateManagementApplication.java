@@ -18,7 +18,7 @@ public class CorporateManagementApplication {
 	}
 }
 
-// --- CONFIGURAÇÃO DE SEGURANÇA NO MESMO ARQUIVO ---
+// --- CONFIGURAÇÃO DE SEGURANÇA ---
 @Configuration
 @EnableWebSecurity
 class SecurityConfig { // Sem o modificador "public" porque só pode haver uma classe pública por arquivo Java
